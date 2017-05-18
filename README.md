@@ -1,4 +1,4 @@
-The classical bowling game kata from 2005, in node.js.
+The classical bowling game kata from 2005, in Node.js.
 
 - <http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata>
 
